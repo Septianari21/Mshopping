@@ -31,7 +31,7 @@
                                         <input class="input form-control input-borders" type="email" name="email"  placeholder="Email">
                                     </div>
                                     <div class="form-group">
-                                        <input class="input form-control input-borders" type="password" name="password" id="password" placeholder="password">
+                                        <input class="input form-control input-borders" type="password" name="password" id="password" placeholder="Password">
                                     </div>
                                     <div class="form-group">
                                         <input class="input form-control input-borders" type="password" name="repassword" id="repassword" placeholder="Confirm Password">
