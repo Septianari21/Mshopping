@@ -34,7 +34,7 @@
                                         <input class="input form-control input-borders" type="password" name="password" id="password" placeholder="password">
                                     </div>
                                     <div class="form-group">
-                                        <input class="input form-control input-borders" type="password" name="repassword" id="repassword" placeholder="confirm password">
+                                        <input class="input form-control input-borders" type="password" name="repassword" id="repassword" placeholder="Confirm Password">
                                     </div>
                                     <div class="form-group">
                                         <input class="input form-control input-borders" type="text" name="mobile" id="mobile" placeholder="Mobile">
