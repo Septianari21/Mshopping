@@ -37,11 +37,11 @@
     <!-- Left and right controls -->
     <a class="left carousel-control _26sdfg" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only" >Previous</span>
+      <span class="sr-only" >Sebelum</span>
     </a>
     <a class="right carousel-control _26sdfg" href="#myCarousel" data-slide="next">
       <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Selanjutnya</span>
     </a>
   </div>
 </div>
